@@ -1,0 +1,1 @@
+export const SET_LOGIN_DATA="LOGIN/SET_LOGIN_DATA";
